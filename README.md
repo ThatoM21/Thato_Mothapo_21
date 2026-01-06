@@ -1,6 +1,9 @@
 # Hey there! 👋
 
-I'm Thato Mothapo an IT student and an aspiring Data Engineer / Data Analyst / Python Developer based in South Africa.
+I'm Thato Mothapo
+🎓 IT student graduating in 2027  
+📊 Aspiring Data Engineer & Data Analyst  
+🐍 Python Developer  
 
 I enjoy turning raw data into meaningful insights and building data-driven solutions that solve real-world problems.
 
